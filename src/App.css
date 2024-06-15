@@ -1,0 +1,8 @@
+body {
+    background-color: antiquewhite;
+}
+
+input[type=text], input[type=number], select {
+    padding: 3px;
+    width: 150px;
+}
